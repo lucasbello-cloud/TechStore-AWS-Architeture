@@ -38,3 +38,21 @@ AWS (Arquitetura Conceitual)
 Autor
 
 Lucas Pereira Bello
+## Banco de Dados MySQL
+
+O projeto também possui uma implementação prática de banco de dados relacional utilizando MySQL 8.4 no Ubuntu Linux (WSL2).
+
+### Atividades realizadas
+- Criação do banco de dados TechStore.
+- Criação de tabelas e relacionamentos.
+- Inserção e consulta de dados.
+- Consultas SQL com INNER JOIN.
+- Atualização e análise de estoque.
+- Criação de VIEW e INDEX.
+- Geração de backup com mysqldump.
+
+### Evidências
+As capturas de tela das atividades estão disponíveis na pasta `evidencias/`.
+
+### Backup
+O backup do banco está em `scripts/techstore.sql`.
